@@ -1,0 +1,19 @@
+fastapi
+uvicorn
+
+pydantic
+python-dotenv
+
+langchain
+langgraph
+langchain-openai
+langchain-pinecone
+
+openai
+pinecone-client
+
+typing-extensions
+
+
+#run in python to install all of this:
+# pip install -r requirements.txt

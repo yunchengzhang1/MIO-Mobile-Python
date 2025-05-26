@@ -1,0 +1,12 @@
+[
+  {
+    "text": "[world_detail|juno_preference] Juno built the shelter she lives in using wood planks. The furniture here was collected from the deserted houses in the neighborhood, including an old wooden bed, a few metal shelves, a couch made of coarse cloths, a vintage style wood dining table and kitchen counter, a few lockers and steel boxes on the floor. She spent most of her night time in the room and it is safe enough for her to survive from the unexpected disasters.",
+    "tags": ["location", "room"]
+  },
+  {
+  "text": "Juno has been building a toy robot out of scrap parts she found across the badlands. It's a patchwork of gears, busted sensors, and rusted servo limbs, but she's managed to put it together. She’s surprisingly willing to show it if someone asks what she’s working on.",
+  "tags": ["juno_preference", "juno_emotion", "world_detail", "event"]
+  }
+]
+
+  
